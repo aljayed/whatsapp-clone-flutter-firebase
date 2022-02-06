@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "407608129818",
+    "project_id": "whatsapp-for-professional",
+    "storage_bucket": "whatsapp-for-professional.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407608129818:android:b1c563e32e58596f1a14a3",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407608129818-7olf05u8hd5en3mo0lakee66ech6sfuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB67kM0HV8s3P2uK5Puy1cCc1Okkm2Fbtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407608129818-7olf05u8hd5en3mo0lakee66ech6sfuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
